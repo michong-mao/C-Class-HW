@@ -1,0 +1,6 @@
+﻿  8_12.cpp
+e:\users\charley\source\repos\w6\8_12\8_12.cpp(23): warning C4804: '<': unsafe use of type 'bool' in operation
+e:\users\charley\source\repos\w6\8_12\8_12.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\charley\source\repos\w6\8_12\8_12.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\users\charley\source\repos\w6\8_12\8_12.cpp(26): warning C4715: 'locationCheck': not all control paths return a value
+  8_12.vcxproj -> E:\Users\Charley\source\repos\W6\Debug\8_12.exe
